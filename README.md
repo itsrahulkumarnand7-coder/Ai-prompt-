@@ -137,7 +137,7 @@ For complex multi-step prompts, see the `workflows/` directory for chained promp
 
 - **Issues**: Suggest improvements
 - **Discussions**: Share experiences and ask questions  
-- **Email**: [talktotanishqua@gmail.com] for private inquiries
+- **Email**: [itsrahulkumar7@gmil.com] for private inquiries
 
 ## 📄 License
 
